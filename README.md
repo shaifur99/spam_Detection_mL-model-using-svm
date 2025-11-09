@@ -1,5 +1,4 @@
 # spam_Detection_mL-model-using-svm
-### Project README.md
 
 Here is a README file description for your End-to-End SMS/Email Spam Detection project using Naive Bayes, based on the uploaded Jupyter Notebook file.
 
